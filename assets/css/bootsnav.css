@@ -996,6 +996,7 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked{
         display: inline-block;
         float: none !important;
         margin: 0 !important;
+        zoom:0.5;
     }
     
     nav.navbar.bootsnav .navbar-header {
